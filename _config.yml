@@ -1,10 +1,11 @@
 # Site Settings
 
 paginate:            5
-disqus:              #"your-disqus"
+disqus:              mitrov.github.io
+twitter_username:    _dzmi
 
 # Build settings
 markdown:            kramdown
 highlighter:         rouge
 permalink:           none
-gems:                [jekyll-paginate]
+plugins:                [jekyll-paginate]

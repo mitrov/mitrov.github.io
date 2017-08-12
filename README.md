@@ -1,1 +1,1 @@
-My personal blog based on Jekyll and the [agrange](https://github.com/LeNPaul/Lagrange) theme
+My personal blog based on Jekyll and the [Lagrange](https://github.com/LeNPaul/Lagrange) theme
